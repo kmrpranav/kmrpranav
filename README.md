@@ -56,11 +56,11 @@ learn fast, build faster, improve constantly
 ---
 
 ### 📊 GitHub Snapshot
-
+```
 <p align="center">
   <img src="./Wild\changing.png" alt="Wild-Changing screenshot" />
 </p>
-
+```
 <p align="center">
   <img src="./Clarity.png" alt="Clarity Browser screenshot" />
 </p>
