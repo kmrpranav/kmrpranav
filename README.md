@@ -60,11 +60,16 @@ learn fast, build faster, improve constantly
 ### 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmrpranav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="./wild-changing.png" alt="Wild-Changing screenshot" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmrpranav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./clarity-browser.png" alt="Clarity Browser screenshot" />
+</p>
+
+
+<p align="center">
+  <img src="./snake-game.png" alt="SnakeGame screenshot" />
 </p>
 
 ---
