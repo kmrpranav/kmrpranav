@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kmrpranav">
-    <img src="https://komarev.com/ghpvc/?username=kmrpranav&label=Profile%20Views&style=flat" />
-  </a>
+  <a href="https://github.com/kmrpranav"></a>
   <a href="https://www.linkedin.com/in/kupranav/">
     <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Kumar-blue?logo=linkedin" />
   </a>
@@ -60,16 +58,16 @@ learn fast, build faster, improve constantly
 ### 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="./wild\changing.png" alt="Wild-Changing screenshot" />
+  <img src="./Wild\changing.png" alt="Wild-Changing screenshot" />
 </p>
 
 <p align="center">
-  <img src="./clarity.png" alt="Clarity Browser screenshot" />
+  <img src="./Clarity.png" alt="Clarity Browser screenshot" />
 </p>
 
 
 <p align="center">
-  <img src="./snake.png" alt="SnakeGame screenshot" />
+  <img src="./Snake.png" alt="SnakeGame screenshot" />
 </p>
 
 ---
