@@ -60,16 +60,16 @@ learn fast, build faster, improve constantly
 ### 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="./wild-changing.png" alt="Wild-Changing screenshot" />
+  <img src="./wild\changing.png" alt="Wild-Changing screenshot" />
 </p>
 
 <p align="center">
-  <img src="./clarity-browser.png" alt="Clarity Browser screenshot" />
+  <img src="./clarity.png" alt="Clarity Browser screenshot" />
 </p>
 
 
 <p align="center">
-  <img src="./snake-game.png" alt="SnakeGame screenshot" />
+  <img src="./snake.png" alt="SnakeGame screenshot" />
 </p>
 
 ---
