@@ -18,7 +18,7 @@
 
 ```bash
 > whoami
-Pranav Kumar — fourth-year Computer Science student at the University of Calgary
+Pranav Kumar — Bachelors of Computer Science at Uofc 
 
 > location
 Calgary, Alberta 🇨🇦
